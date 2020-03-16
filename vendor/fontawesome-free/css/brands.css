@@ -1,0 +1,27 @@
+/*!
+ * Font Awesome Free 5.10.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+ /* Webfont: OchreScript */
+ @font-face {
+     font-family: 'OchreScript';
+     src: url('../webfonts/Ochre Script.eot'); /* IE9 Compat Modes */
+     src: url('../webfonts/Ochre Script.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('../webfonts/Ochre Script.woff') format('woff'), /* Modern Browsers */
+          url('../webfonts/Ochre Script.ttf') format('truetype'); /* Safari, Android, iOS */
+              font-style: normal;
+     font-weight: normal;
+     text-rendering: optimizeLegibility;
+ }
+
+
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("../webfonts/fa-brands-400.eot");
+  src: url("../webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.woff") format("woff"), url("../webfonts/fa-brands-400.ttf") format("truetype"), url("../webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
+
+.fab {
+  font-family: 'Font Awesome 5 Brands'; }
